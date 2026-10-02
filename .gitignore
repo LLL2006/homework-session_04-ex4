@@ -1,0 +1,14 @@
+# Sensitive and credentials files
+credentials.txt
+.env
+*.key
+*.pem
+
+# OS & IDE junk files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
